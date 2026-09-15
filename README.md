@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Nothing to see here for now! 
+-# You don't really want to see my private repositories, not that they're interesting any way!
+Try coming back later for something cooler! 👀
