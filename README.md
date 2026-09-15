@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p> Stalking, huh 🤔? Nothing to see here for now! <br>
+<p> Stalking, huh? 🤔 Nothing to see here for now! </p>
