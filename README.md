@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Stalking, huh 🤔? <br>
-# Nothing to see here for now! <br>
-<p>You don't really want to see my private repositories, not that they're interesting any way! <br>
-<br>
-Try coming back later for something cooler! 👀</p>
+<p> Stalking, huh 🤔? Nothing to see here for now! <br>
